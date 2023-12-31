@@ -1,3 +1,8 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+.HomeScreen {
+  background-image: url("/public/assets/img/img2.jpeg"),
+    linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.9));
+  background-image: no-repete;
+}
